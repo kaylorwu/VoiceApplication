@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kaylor</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="btn_read">Read</string>
+    <string name="btn_Morning">Morning</string>
+    <string name="btn_bye">Bye</string>
+</resources>
